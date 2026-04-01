@@ -31,19 +31,19 @@ L’infrastructure repose sur un environnement structuré avec :
 
 ### 🔐 Active Directory
 Gestion des utilisateurs, authentification et politiques de sécurité  
-👉 [Voir le projet](active-directory/AD.pdf)
+👉 [Voir le projet](active-directory/ad.pdf)
 
 ---
 
 ### 🌐 DNS
 Mise en place d’un serveur de résolution de noms  
-👉 [Voir le projet](dns/DNS.pdf)
+👉 [Voir le projet](dns/dns.pdf)
 
 ---
 
 ### 🖥️ GLPI
 Gestion du parc informatique et support utilisateur  
-👉 [Voir le projet](glpi/GLPI.pdf)
+👉 [Voir le projet](glpi/glpi.pdf)
 
 ---
 
