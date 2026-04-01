@@ -19,7 +19,7 @@ L’infrastructure repose sur un environnement structuré avec :
 - Un domaine Active Directory
 - Un service DNS
 - Une plateforme GLPI intégrée via LDAP
-- Une séparation réseau (DMZ)
+- Une séparation réseau (DMZ / pare-feu)
 
 📷 Schéma :
 
@@ -30,28 +30,20 @@ L’infrastructure repose sur un environnement structuré avec :
 ## ⚙️ Projets détaillés
 
 ### 🔐 Active Directory
-Gestion des utilisateurs, authentification et politiques de sécurité  
+Gestion du domaine, des utilisateurs et des politiques de sécurité  
 👉 [Voir le projet](active-directory/ad.pdf)
 
 ---
 
 ### 🌐 DNS
-Mise en place d’un serveur de résolution de noms  
+Service de résolution de noms intégré à l’infrastructure  
 👉 [Voir le projet](dns/dns.pdf)
 
 ---
 
 ### 🖥️ GLPI
-Gestion du parc informatique et support utilisateur  
+Gestion de parc, support IT et intégration LDAP  
 👉 [Voir le projet](glpi/glpi.pdf)
-
----
-
-## 🔗 Objectif professionnel
-
-Ce projet s’inscrit dans mon objectif de développer des compétences en systèmes, réseaux et gestion d’infrastructures IT.
-
-À terme, je souhaite évoluer vers des projets techniques en administration systèmes et réseaux.
 
 ---
 
@@ -63,10 +55,25 @@ L’environnement initial n’étant plus disponible, certaines parties ne peuve
 
 Cependant, la structure du projet, les choix techniques et la documentation restent représentatifs du travail réalisé.
 
-Des améliorations et une remise en place complète de l’infrastructure sont prévues à l’avenir, avec un environnement plus adapté.
+Une amélioration et une reconstruction complète de l’infrastructure sont prévues à l’avenir.
+
+---
+
+## 🎯 Objectif professionnel
+
+Ce projet s’inscrit dans mon objectif de développer des compétences en systèmes, réseaux et gestion d’infrastructures IT.
+
+À long terme, je souhaite évoluer vers des projets techniques en administration systèmes et réseaux, avec l’ambition de proposer des solutions concrètes en entreprise.
+
+---
+
+## 🔗 Portfolio
+
+👉 [Voir mon portfolio](https://github.com/emir-moutassiev/portfolio-it)
 
 ---
 
 ## 📬 Contact
 
-- Email : emirmoutassievl@gmail.com
+- Email : ton mail
+  
