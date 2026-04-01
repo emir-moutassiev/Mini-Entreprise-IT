@@ -23,7 +23,7 @@ L’infrastructure repose sur un environnement structuré avec :
 
 📷 Schéma :
 
-![Architecture](architecture/schema.png)
+![Architecture](architecture/Structure.png)
 
 ---
 
