@@ -29,6 +29,8 @@ L’infrastructure repose sur un environnement structuré avec :
 
 ## ⚙️ Projets détaillés
 
+Chaque projet est documenté individuellement avec son rôle dans l’infrastructure.
+
 ### 🔐 Active Directory
 Gestion du domaine, des utilisateurs et des politiques de sécurité  
 👉 [Voir le projet](active-directory/ad.pdf)
